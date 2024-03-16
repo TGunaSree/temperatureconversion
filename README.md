@@ -1,5 +1,5 @@
 # temperatureconversion
-This code converts the temperature from fahrenheit to celsius
+This code converts the temperature from fahrenheit to celsius.
 The function "convert" is defined with a parameter 's'.
 We assign the float value of 's' to a variable 'f'.
 We define a variable 'c' and assign its value interms of fahrenheit.
